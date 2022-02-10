@@ -1,7 +1,6 @@
 import { createDrawerNavigator } from "@react-navigation/drawer";
 import { NavigationContainer } from "@react-navigation/native";
 import React from "react";
-import { Text, View } from "react-native";
 import ExampleScreen from "./Screens/ExampleScreen";
 import HomeScreen from "./Screens/homeScreen";
 
